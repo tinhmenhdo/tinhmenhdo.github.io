@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dev.tinhmenhdo.com/sitemap-index.xml
+Sitemap: https://tinhmenhdo.github.io/sitemap-index.xml
