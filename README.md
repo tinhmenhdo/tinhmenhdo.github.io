@@ -1,4 +1,5 @@
-# [Tinh Mệnh Đồ](https://tinhmenhdo.com)
+# [Tinh Mệnh Đồ backup](https://tinhmenhdo.github.io)
+
 - 👋 Hi, I’m @tinhmenhdo
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
