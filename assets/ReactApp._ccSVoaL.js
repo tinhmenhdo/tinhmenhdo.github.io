@@ -1,0 +1,1 @@
+import{R as a}from"./ReactApp.Kj4y2Pyn.js";import"./client.CCt2_27T.js";export{a as default};
