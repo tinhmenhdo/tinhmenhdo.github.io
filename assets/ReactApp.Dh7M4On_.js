@@ -1,1 +1,0 @@
-import{R as a}from"./ReactApp.BI8fDv50.js";import"./client.CCt2_27T.js";export{a as default};
