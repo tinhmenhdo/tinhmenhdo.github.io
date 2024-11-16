@@ -1,0 +1,14 @@
+const _192x192 = new Proxy({"src":"/sfYYkhPc/BJsLpR28.png","width":250,"height":250,"format":"png"}, {
+						get(target, name, receiver) {
+							if (name === 'clone') {
+								return structuredClone(target);
+							}
+							if (name === 'fsPath') {
+								return "/root/code/tmd_astro/src/assets/images/192x192.png";
+							}
+							if (target[name] !== undefined && globalThis.astroAsset) globalThis.astroAsset?.referencedImages.add("/root/code/tmd_astro/src/assets/images/192x192.png");
+							return target[name];
+						}
+					});
+
+export { _192x192 as default };
