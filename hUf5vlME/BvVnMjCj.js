@@ -1,0 +1,1 @@
+const _196x196=new Proxy({src:"/hUf5vlME/BJsLpR28.png",width:250,height:250,format:"png"},{get:(s,t,e)=>"clone"===t?structuredClone(s):"fsPath"===t?"/root/code/tmd_astro/src/assets/images/196x196.png":(void 0!==s[t]&&globalThis.astroAsset&&globalThis.astroAsset?.referencedImages.add("/root/code/tmd_astro/src/assets/images/196x196.png"),s[t])});export{_196x196 as default};
