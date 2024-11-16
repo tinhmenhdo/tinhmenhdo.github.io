@@ -1,2 +1,4 @@
 User-agent: *
 Disallow:
+
+Sitemap: https://tinhmenhdo.github.io/sitemap-index.xml
