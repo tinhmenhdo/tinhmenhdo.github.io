@@ -1,0 +1,1 @@
+const logo=new Proxy({src:"/assets/BJsLpR28.png",width:250,height:250,format:"png"},{get:(s,o,t)=>"clone"===o?structuredClone(s):"fsPath"===o?"/root/code/tmd_astro/src/assets/images/logo.png":(void 0!==s[o]&&globalThis.astroAsset&&globalThis.astroAsset?.referencedImages.add("/root/code/tmd_astro/src/assets/images/logo.png"),s[o])});export{logo as default};

@@ -1,0 +1,1 @@
+const curveArrow=new Proxy({src:"/assets/cZDJhW6D.png",width:24,height:24,format:"png"},{get:(s,r,e)=>"clone"===r?structuredClone(s):"fsPath"===r?"/root/code/tmd_astro/src/assets/images/curve-arrow.png":(void 0!==s[r]&&globalThis.astroAsset&&globalThis.astroAsset?.referencedImages.add("/root/code/tmd_astro/src/assets/images/curve-arrow.png"),s[r])});export{curveArrow as default};
