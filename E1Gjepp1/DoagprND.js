@@ -1,0 +1,1 @@
+const calendar=new Proxy({src:"/E1Gjepp1/CczfGZOB.png",width:24,height:24,format:"png"},{get:(e,s,a)=>"clone"===s?structuredClone(e):"fsPath"===s?"/root/code/tmd_astro/src/assets/images/calendar.png":(void 0!==e[s]&&globalThis.astroAsset&&globalThis.astroAsset?.referencedImages.add("/root/code/tmd_astro/src/assets/images/calendar.png"),e[s])});export{calendar as default};

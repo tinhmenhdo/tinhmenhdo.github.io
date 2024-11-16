@@ -1,0 +1,1 @@
+const bg=new Proxy({src:"/E1Gjepp1/DNAzw9pP.jpg",width:1920,height:1080,format:"jpg"},{get:(s,e,t)=>"clone"===e?structuredClone(s):"fsPath"===e?"/root/code/tmd_astro/src/assets/images/bg.jpg":(void 0!==s[e]&&globalThis.astroAsset&&globalThis.astroAsset?.referencedImages.add("/root/code/tmd_astro/src/assets/images/bg.jpg"),s[e])});export{bg as default};
