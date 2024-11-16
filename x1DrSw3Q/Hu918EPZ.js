@@ -1,0 +1,3 @@
+import{c as createComponent,r as renderTemplate,m as maybeRenderHead,b as addAttribute}from"./4CUkstck.js";import"kleur/colors";import"clsx";import{e as getHomePermalink,S as SITE}from"./SCgoB6l-.js";const $$Logo=createComponent(((e,t,o)=>renderTemplate`${maybeRenderHead()}<div class="flex flex-col items-center justify-center"> <a class="logoText" title="Tinh Mệnh Đồ"${addAttribute(getHomePermalink(),"href")}>${SITE?.name}</a> <div class="sologan text-[#ffffff] text-[.625rem] font-weight-[400] leading-[1] opacity-[.55]">
+Hành trình khám phá bản thân và vũ trụ
+</div> </div>`),"/root/code/tmd_astro/src/components/Logo.astro",void 0);export{$$Logo as $};
