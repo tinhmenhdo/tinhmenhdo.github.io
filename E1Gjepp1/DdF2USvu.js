@@ -1,1 +1,0 @@
-const man=new Proxy({src:"/E1Gjepp1/2hg96iXY.png",width:24,height:24,format:"png"},{get:(s,e,t)=>"clone"===e?structuredClone(s):"fsPath"===e?"/root/code/tmd_astro/src/assets/images/man.png":(void 0!==s[e]&&globalThis.astroAsset&&globalThis.astroAsset?.referencedImages.add("/root/code/tmd_astro/src/assets/images/man.png"),s[e])});export{man as default};

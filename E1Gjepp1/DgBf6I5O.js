@@ -1,1 +1,0 @@
-const YinYang=new Proxy({src:"/E1Gjepp1/K1H3_VNj.webp",width:728,height:987,format:"webp"},{get:(e,s,t)=>"clone"===s?structuredClone(e):"fsPath"===s?"/root/code/tmd_astro/src/assets/images/YinYang.webp":(void 0!==e[s]&&globalThis.astroAsset&&globalThis.astroAsset?.referencedImages.add("/root/code/tmd_astro/src/assets/images/YinYang.webp"),e[s])});export{YinYang as default};
