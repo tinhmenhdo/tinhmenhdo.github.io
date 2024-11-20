@@ -1,1 +1,0 @@
-const arrows=new Proxy({src:"/rCKn0OCY/DBVgTWpl.png",width:24,height:24,format:"png"},{get:(s,r,o)=>"clone"===r?structuredClone(s):"fsPath"===r?"/root/code/tmd_astro/src/assets/images/arrows.png":(void 0!==s[r]&&globalThis.astroAsset&&globalThis.astroAsset?.referencedImages.add("/root/code/tmd_astro/src/assets/images/arrows.png"),s[r])});export{arrows as default};
