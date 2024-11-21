@@ -1,0 +1,1 @@
+const _default=new Proxy({src:"/rAzPE54q/TgzEHULK.webp",width:334,height:391,format:"webp"},{get:(e,s,t)=>"clone"===s?structuredClone(e):"fsPath"===s?"/root/code/tmd_astro/src/assets/images/default.webp":(void 0!==e[s]&&globalThis.astroAsset&&globalThis.astroAsset?.referencedImages.add("/root/code/tmd_astro/src/assets/images/default.webp"),e[s])});export{_default as default};
