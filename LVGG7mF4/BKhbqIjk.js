@@ -1,0 +1,1 @@
+const woman=new Proxy({src:"/LVGG7mF4/BDXiYRBA.png",width:24,height:24,format:"png"},{get:(s,o,t)=>"clone"===o?structuredClone(s):"fsPath"===o?"/root/code/tmd_astro/src/assets/images/woman.png":(void 0!==s[o]&&globalThis.astroAsset&&globalThis.astroAsset?.referencedImages.add("/root/code/tmd_astro/src/assets/images/woman.png"),s[o])});export{woman as default};
