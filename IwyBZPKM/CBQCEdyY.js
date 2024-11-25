@@ -1,0 +1,1 @@
+const appStore=new Proxy({src:"/IwyBZPKM/t3tG4Jz3.png",width:300,height:89,format:"png"},{get:(s,t,e)=>"clone"===t?structuredClone(s):"fsPath"===t?"/root/code/tmd_astro/src/assets/images/app-store.png":(void 0!==s[t]&&globalThis.astroAsset&&globalThis.astroAsset?.referencedImages.add("/root/code/tmd_astro/src/assets/images/app-store.png"),s[t])});export{appStore as default};
