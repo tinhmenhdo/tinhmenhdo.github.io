@@ -1,0 +1,1 @@
+const icon=new Proxy({src:"/hDKsN9Z8/BpEvo4sH.png",width:16,height:16,format:"png"},{get:(s,o,t)=>"clone"===o?structuredClone(s):"fsPath"===o?"/root/code/tmd_astro/src/assets/images/icon.png":(void 0!==s[o]&&globalThis.astroAsset&&globalThis.astroAsset?.referencedImages.add("/root/code/tmd_astro/src/assets/images/icon.png"),s[o])});export{icon as default};
