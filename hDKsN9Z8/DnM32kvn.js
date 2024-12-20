@@ -1,3 +1,0 @@
-import{c as createComponent,r as renderTemplate,m as maybeRenderHead,b as addAttribute}from"./DkjhqSw4.js";import"kleur/colors";import"clsx";import{e as getHomePermalink,S as SITE}from"./xlr9BWdx.js";const $$Logo=createComponent(((e,t,o)=>renderTemplate`${maybeRenderHead()}<div class="flex flex-col items-center justify-center"> <a class="text-[17px] text-[#ffd641d9] transition-all hover:text-[#ffd641] leading-[1.25] font-[600]" title="Tinh Mệnh Đồ"${addAttribute(getHomePermalink(),"href")}>${SITE?.name}</a> <div class="font-normal leading-none opacity-55 text-[#ffffff] text-[.625rem] font-weight-[400]">
-Hành trình khám phá bản thân và vũ trụ
-</div> </div>`),"/root/code/tmd_astro/src/components/Logo.astro",void 0);export{$$Logo as $};
