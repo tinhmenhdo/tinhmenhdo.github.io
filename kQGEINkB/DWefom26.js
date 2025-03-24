@@ -1,1 +1,0 @@
-import{r as t}from"./DgTtEExD.js";import{i as e}from"./JqdQR5kD.js";import"./CVVDEXDJ.js";function LayoutInitializer(){return t.useEffect((()=>{e();const t=()=>{e()};return document.addEventListener("astro:page-load",t),()=>{document.removeEventListener("astro:page-load",t)}}),[]),null}export{LayoutInitializer as default};
