@@ -1,0 +1,1 @@
+const amDuong=new Proxy({src:"/teCYnu8x/t1EmRLUP.png",width:728,height:728,format:"png"},{get:(s,t,o)=>"clone"===t?structuredClone(s):"fsPath"===t?"/root/code/tmd_astro/src/assets/images/am-duong.png":(void 0!==s[t]&&globalThis.astroAsset&&globalThis.astroAsset?.referencedImages.add("/root/code/tmd_astro/src/assets/images/am-duong.png"),s[t])});export{amDuong as default};

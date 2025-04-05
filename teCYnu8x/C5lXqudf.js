@@ -1,0 +1,1 @@
+const universe=new Proxy({src:"/teCYnu8x/C5BzPDWp.png",width:32,height:32,format:"png"},{get:(e,s,t)=>"clone"===s?structuredClone(e):"fsPath"===s?"/root/code/tmd_astro/src/assets/images/universe.png":(void 0!==e[s]&&globalThis.astroAsset&&globalThis.astroAsset?.referencedImages.add("/root/code/tmd_astro/src/assets/images/universe.png"),e[s])});export{universe as default};
