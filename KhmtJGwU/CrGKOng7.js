@@ -1,1 +1,0 @@
-const earth=new Proxy({src:"/KhmtJGwU/BBBclgBT.png",width:32,height:32,format:"png"},{get:(t,s,e)=>"clone"===s?structuredClone(t):"fsPath"===s?"/root/code/tmd_astro/src/assets/images/earth.png":(void 0!==t[s]&&globalThis.astroAsset&&globalThis.astroAsset?.referencedImages.add("/root/code/tmd_astro/src/assets/images/earth.png"),t[s])});export{earth as default};
