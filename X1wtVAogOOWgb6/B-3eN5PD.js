@@ -1,0 +1,1 @@
+const view=new Proxy({src:"/images/view.png",width:24,height:24,format:"png"},{get:(e,s,t)=>"clone"===s?structuredClone(e):"fsPath"===s?"/root/code/tmd_astro/src/assets/images/view.png":(void 0!==e[s]&&globalThis.astroAsset&&globalThis.astroAsset?.referencedImages.add("/root/code/tmd_astro/src/assets/images/view.png"),e[s])});export{view as default};

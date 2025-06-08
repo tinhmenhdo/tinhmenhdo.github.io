@@ -1,0 +1,1 @@
+const fav=new Proxy({src:"/images/fav.png",width:16,height:16,format:"png"},{get:(s,a,e)=>"clone"===a?structuredClone(s):"fsPath"===a?"/root/code/tmd_astro/src/assets/images/fav.png":(void 0!==s[a]&&globalThis.astroAsset&&globalThis.astroAsset?.referencedImages.add("/root/code/tmd_astro/src/assets/images/fav.png"),s[a])});export{fav as default};

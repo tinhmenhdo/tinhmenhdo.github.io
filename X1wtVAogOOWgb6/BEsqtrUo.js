@@ -1,0 +1,1 @@
+const diaban=new Proxy({src:"/images/diaban.png",width:453,height:453,format:"png"},{get:(a,s,e)=>"clone"===s?structuredClone(a):"fsPath"===s?"/root/code/tmd_astro/src/assets/images/diaban.png":(void 0!==a[s]&&globalThis.astroAsset&&globalThis.astroAsset?.referencedImages.add("/root/code/tmd_astro/src/assets/images/diaban.png"),a[s])});export{diaban as default};

@@ -1,0 +1,1 @@
+const brain=new Proxy({src:"/images/brain.png",width:32,height:32,format:"png"},{get:(s,a,e)=>"clone"===a?structuredClone(s):"fsPath"===a?"/root/code/tmd_astro/src/assets/images/brain.png":(void 0!==s[a]&&globalThis.astroAsset&&globalThis.astroAsset?.referencedImages.add("/root/code/tmd_astro/src/assets/images/brain.png"),s[a])});export{brain as default};

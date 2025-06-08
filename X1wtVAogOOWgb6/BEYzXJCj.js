@@ -1,0 +1,1 @@
+const _default=new Proxy({src:"/images/default.png",width:800,height:1018,format:"png"},{get:(e,s,t)=>"clone"===s?structuredClone(e):"fsPath"===s?"/root/code/tmd_astro/src/assets/images/default.png":(void 0!==e[s]&&globalThis.astroAsset&&globalThis.astroAsset?.referencedImages.add("/root/code/tmd_astro/src/assets/images/default.png"),e[s])});export{_default as default};

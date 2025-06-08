@@ -1,0 +1,1 @@
+const yinyang=new Proxy({src:"/images/yinyang.png",width:24,height:24,format:"png"},{get:(s,a,e)=>"clone"===a?structuredClone(s):"fsPath"===a?"/root/code/tmd_astro/src/assets/images/yinyang.png":(void 0!==s[a]&&globalThis.astroAsset&&globalThis.astroAsset?.referencedImages.add("/root/code/tmd_astro/src/assets/images/yinyang.png"),s[a])});export{yinyang as default};

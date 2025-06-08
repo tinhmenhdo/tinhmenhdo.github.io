@@ -1,0 +1,1 @@
+import{b as r}from"./DM1WieRl.js";function o(o){return r(o,4)}export{o as c};
