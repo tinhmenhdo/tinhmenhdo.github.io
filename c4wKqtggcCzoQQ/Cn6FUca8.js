@@ -1,0 +1,1 @@
+async function getMod(){return import("./AN_kwp8r.js")}const collectedLinks=[],collectedStyles=[],defaultMod={__astroPropagation:!0,getMod:getMod,collectedLinks:collectedLinks,collectedStyles:collectedStyles,collectedScripts:[]};export{defaultMod as default};

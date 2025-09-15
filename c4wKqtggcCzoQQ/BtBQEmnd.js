@@ -1,0 +1,1 @@
+async function getMod(){return import("./hvD5cKGk.js")}const collectedLinks=[],collectedStyles=[],defaultMod={__astroPropagation:!0,getMod:getMod,collectedLinks:collectedLinks,collectedStyles:collectedStyles,collectedScripts:[]};export{defaultMod as default};

@@ -1,0 +1,1 @@
+import{S as e,r as t,a as n}from"./C3PoQbqi.js";function o(o){return"string"==typeof o?new e([document.querySelectorAll(o)],[document.documentElement]):new e([n(o)],t)}export{o as s};
