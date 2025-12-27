@@ -1,1 +1,0 @@
-const o={GIEO_QUE:"https://gemini.google.com/gem/2f1319c3da02?usp=TinhMenhDo.com",TU_VI_BAT_TU:"https://gemini.google.com/gem/39959fcd60c2?usp=TinhMenhDo.com"};export{o as G};
