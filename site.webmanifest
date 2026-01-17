@@ -1,11 +1,13 @@
 {
-  "name": "Tinh Mệnh Đồ",
+  "name": "Tinh Mệnh Đồ | Lá Số Tử Vi & Gieo Quẻ AI",
   "short_name": "Tinh Mệnh Đồ",
+  "description": "Ứng dụng xem tử vi, gieo quẻ AI với Khâm Thiên Tứ Hóa, Kì Môn Độn Giáp",
   "icons": [
     {
       "src": "/pwa-192x192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     },
     {
       "src": "/pwa-512x512.png",
@@ -15,5 +17,6 @@
   ],
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
-  "display": "standalone"
+  "start_url": "/",
+  "orientation": "portrait"
 }

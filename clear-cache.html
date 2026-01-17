@@ -1,3 +1,233 @@
-<!doctype html><html lang="vi"><head><meta charset="UTF-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/><title>Clear All Cache & Service Workers</title><style>body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;max-width:800px;margin:0 auto;padding:20px;background:#f5f5f5}.container{background:#fff;padding:30px;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,.1)}.button{background:#dc3545;color:#fff;padding:12px 24px;border:none;border-radius:6px;font-size:16px;cursor:pointer;margin:10px 5px;transition:background .3s}.button:hover{background:#c82333}.button.safe{background:#28a745}.button.safe:hover{background:#218838}.status{margin:15px 0;padding:15px;border-radius:6px;font-family:monospace;font-size:14px}.success{background:#d4edda;color:#155724;border:1px solid #c3e6cb}.error{background:#f8d7da;color:#721c24;border:1px solid #f5c6cb}.info{background:#d1ecf1;color:#0c5460;border:1px solid #bee5eb}.warning{background:#fff3cd;color:#856404;border:1px solid #ffeaa7}.steps{background:#f8f9fa;padding:20px;border-radius:6px;margin:20px 0}.step{margin:10px 0;padding:10px;border-left:4px solid #007bff;background:#fff}pre{background:#2d3748;color:#e2e8f0;padding:15px;border-radius:6px;overflow-x:auto;font-size:14px}.highlight{background:#fff3cd;padding:2px 4px;border-radius:3px}</style></head><body><div class="container"><h1>🧹 Clear All Cache & Service Workers</h1><div class="warning"><strong>⚠️ Chú ý:</strong> Trang này sẽ xóa hoàn toàn tất cả cache, service workers, localStorage, sessionStorage và IndexedDB. Chỉ sử dụng khi gặp vấn đề với PWA hoặc Service Worker!</div><div class="steps"><h3>🎯 Cách sử dụng:</h3><div class="step"><strong>Cách 1 - Automatic:</strong> Click nút "Clear All Cache" bên dưới</div><div class="step"><strong>Cách 2 - Manual:</strong> Mở DevTools (F12) > Console > Copy/paste script bên dưới</div><div class="step"><strong>Cách 3 - Direct:</strong> Truy cập <code>/clear-all-cache.js</code> rồi copy script vào console</div></div><div style="text-align:center;margin:30px 0"><button class="button" onclick="clearAllCache()">🗑️ Clear All Cache</button> <button class="button safe" onclick="window.location.href=&#34;/&#34;">🏠 Back to Home</button></div><div id="status"></div><details><summary><strong>📋 Manual Script (Copy vào Console)</strong></summary><pre id="script-content">
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Clear All Cache & Service Workers</title>
+    <style>
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        background: #f5f5f5;
+      }
+      .container {
+        background: white;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      }
+      .button {
+        background: #dc3545;
+        color: white;
+        padding: 12px 24px;
+        border: none;
+        border-radius: 6px;
+        font-size: 16px;
+        cursor: pointer;
+        margin: 10px 5px;
+        transition: background 0.3s;
+      }
+      .button:hover {
+        background: #c82333;
+      }
+      .button.safe {
+        background: #28a745;
+      }
+      .button.safe:hover {
+        background: #218838;
+      }
+      .status {
+        margin: 15px 0;
+        padding: 15px;
+        border-radius: 6px;
+        font-family: monospace;
+        font-size: 14px;
+      }
+      .success {
+        background: #d4edda;
+        color: #155724;
+        border: 1px solid #c3e6cb;
+      }
+      .error {
+        background: #f8d7da;
+        color: #721c24;
+        border: 1px solid #f5c6cb;
+      }
+      .info {
+        background: #d1ecf1;
+        color: #0c5460;
+        border: 1px solid #bee5eb;
+      }
+      .warning {
+        background: #fff3cd;
+        color: #856404;
+        border: 1px solid #ffeaa7;
+      }
+      .steps {
+        background: #f8f9fa;
+        padding: 20px;
+        border-radius: 6px;
+        margin: 20px 0;
+      }
+      .step {
+        margin: 10px 0;
+        padding: 10px;
+        border-left: 4px solid #007bff;
+        background: white;
+      }
+      pre {
+        background: #2d3748;
+        color: #e2e8f0;
+        padding: 15px;
+        border-radius: 6px;
+        overflow-x: auto;
+        font-size: 14px;
+      }
+      .highlight {
+        background: #fff3cd;
+        padding: 2px 4px;
+        border-radius: 3px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>🧹 Clear All Cache & Service Workers</h1>
+
+      <div class="warning">
+        <strong>⚠️ Chú ý:</strong> Trang này sẽ xóa hoàn toàn tất cả cache, service workers, localStorage,
+        sessionStorage và IndexedDB. Chỉ sử dụng khi gặp vấn đề với PWA hoặc Service Worker!
+      </div>
+
+      <div class="steps">
+        <h3>🎯 Cách sử dụng:</h3>
+        <div class="step"><strong>Cách 1 - Automatic:</strong> Click nút "Clear All Cache" bên dưới</div>
+        <div class="step">
+          <strong>Cách 2 - Manual:</strong> Mở DevTools (F12) > Console > Copy/paste script bên dưới
+        </div>
+        <div class="step">
+          <strong>Cách 3 - Direct:</strong> Truy cập <code>/clear-all-cache.js</code> rồi copy script vào console
+        </div>
+      </div>
+
+      <div style="text-align: center; margin: 30px 0">
+        <button class="button" onclick="clearAllCache()">🗑️ Clear All Cache</button>
+        <button class="button safe" onclick="window.location.href = '/'">🏠 Back to Home</button>
+      </div>
+
+      <div id="status"></div>
+
+      <details>
+        <summary><strong>📋 Manual Script (Copy vào Console)</strong></summary>
+        <pre id="script-content">
 // Đang load script...
-            </pre></details><div class="info"><h4>🔧 Tùy chọn khác:</h4><ul><li><strong>Chrome:</strong> Settings > Privacy > Clear browsing data</li><li><strong>Firefox:</strong> Options > Privacy > Clear Data</li><li><strong>Safari:</strong> Develop > Empty Caches</li></ul></div></div><script>function logStatus(e,t="info"){const s=document.getElementById("status"),a=document.createElement("div");a.className=`status ${t}`,a.textContent=(new Date).toLocaleTimeString()+": "+e,s.appendChild(a),console.log(e)}async function clearAllCache(){logStatus("🚨 Bắt đầu clear cache...","warning");try{if("serviceWorker"in navigator){const e=await navigator.serviceWorker.getRegistrations();for(const t of e)await t.unregister(),logStatus("💀 Service worker unregistered: "+t.scope,"success");e.length>0?logStatus(`✅ Unregistered ${e.length} service worker(s)`,"success"):logStatus("ℹ️ Không có service worker nào để xóa","info")}if("caches"in window){const e=await caches.keys();for(const t of e)await caches.delete(t),logStatus("💀 Cache deleted: "+t,"success");e.length>0?logStatus(`✅ Deleted ${e.length} cache(s)`,"success"):logStatus("ℹ️ Không có cache nào để xóa","info")}if(localStorage.clear(),logStatus("💀 localStorage cleared","success"),sessionStorage.clear(),logStatus("💀 sessionStorage cleared","success"),"indexedDB"in window)try{const e=await indexedDB.databases();for(const t of e)indexedDB.deleteDatabase(t.name),logStatus("💀 IndexedDB deleted: "+t.name,"success")}catch(e){logStatus("💀 IndexedDB cleared (if any)","success")}logStatus("✅ CACHE CLEARING COMPLETED!","success"),logStatus("🔄 Sẽ refresh trang sau 3 giây...","info"),setTimeout((()=>{logStatus("🔄 Đang refresh trang...","info"),window.location.reload()}),3e3)}catch(e){logStatus("❌ Lỗi khi clear cache: "+e.message,"error")}}fetch("/clear-all-cache.js").then((e=>e.text())).then((e=>{document.getElementById("script-content").textContent=e})).catch((e=>{document.getElementById("script-content").textContent="Error loading script: "+e.message}))</script></body></html>
+            </pre
+        >
+      </details>
+
+      <div class="info">
+        <h4>🔧 Tùy chọn khác:</h4>
+        <ul>
+          <li><strong>Chrome:</strong> Settings > Privacy > Clear browsing data</li>
+          <li><strong>Firefox:</strong> Options > Privacy > Clear Data</li>
+          <li><strong>Safari:</strong> Develop > Empty Caches</li>
+        </ul>
+      </div>
+    </div>
+
+    <script>
+      // Load script content for display
+      fetch('/clear-all-cache.js')
+        .then((response) => response.text())
+        .then((content) => {
+          document.getElementById('script-content').textContent = content;
+        })
+        .catch((error) => {
+          document.getElementById('script-content').textContent = 'Error loading script: ' + error.message;
+        });
+
+      // Status logger
+      function logStatus(message, type = 'info') {
+        const statusDiv = document.getElementById('status');
+        const statusItem = document.createElement('div');
+        statusItem.className = `status ${type}`;
+        statusItem.textContent = new Date().toLocaleTimeString() + ': ' + message;
+        statusDiv.appendChild(statusItem);
+        console.log(message);
+      }
+
+      // Clear all cache function
+      async function clearAllCache() {
+        logStatus('🚨 Bắt đầu clear cache...', 'warning');
+
+        try {
+          // 1. Unregister all service workers
+          if ('serviceWorker' in navigator) {
+            const registrations = await navigator.serviceWorker.getRegistrations();
+
+            for (const registration of registrations) {
+              await registration.unregister();
+              logStatus('💀 Service worker unregistered: ' + registration.scope, 'success');
+            }
+
+            if (registrations.length > 0) {
+              logStatus(`✅ Unregistered ${registrations.length} service worker(s)`, 'success');
+            } else {
+              logStatus('ℹ️ Không có service worker nào để xóa', 'info');
+            }
+          }
+
+          // 2. Clear all caches
+          if ('caches' in window) {
+            const cacheNames = await caches.keys();
+
+            for (const cacheName of cacheNames) {
+              await caches.delete(cacheName);
+              logStatus('💀 Cache deleted: ' + cacheName, 'success');
+            }
+
+            if (cacheNames.length > 0) {
+              logStatus(`✅ Deleted ${cacheNames.length} cache(s)`, 'success');
+            } else {
+              logStatus('ℹ️ Không có cache nào để xóa', 'info');
+            }
+          }
+
+          // 3. Clear localStorage
+          localStorage.clear();
+          logStatus('💀 localStorage cleared', 'success');
+
+          // 4. Clear sessionStorage
+          sessionStorage.clear();
+          logStatus('💀 sessionStorage cleared', 'success');
+
+          // 5. Clear IndexedDB
+          if ('indexedDB' in window) {
+            try {
+              const databases = await indexedDB.databases();
+              for (const db of databases) {
+                indexedDB.deleteDatabase(db.name);
+                logStatus('💀 IndexedDB deleted: ' + db.name, 'success');
+              }
+            } catch (e) {
+              logStatus('💀 IndexedDB cleared (if any)', 'success');
+            }
+          }
+
+          logStatus('✅ CACHE CLEARING COMPLETED!', 'success');
+          logStatus('🔄 Sẽ refresh trang sau 3 giây...', 'info');
+
+          // Auto refresh after 3 seconds
+          setTimeout(() => {
+            logStatus('🔄 Đang refresh trang...', 'info');
+            window.location.reload();
+          }, 3000);
+        } catch (error) {
+          logStatus('❌ Lỗi khi clear cache: ' + error.message, 'error');
+        }
+      }
+    </script>
+  </body>
+</html>

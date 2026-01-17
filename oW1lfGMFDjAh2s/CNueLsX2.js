@@ -1,0 +1,1 @@
+const a=function(){for(var a=new Array(10),e=0;e<10;)a[e]="#"+"4e79a7f28e2ce1575976b7b259a14fedc949af7aa1ff9da79c755fbab0ab".slice(6*e,6*++e);return a}();export{a as s};
