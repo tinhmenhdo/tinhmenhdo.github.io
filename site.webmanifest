@@ -2,6 +2,10 @@
   "name": "Tinh Mệnh Đồ | Lá Số Tử Vi & Gieo Quẻ AI",
   "short_name": "Tinh Mệnh Đồ",
   "description": "Ứng dụng xem tử vi, gieo quẻ AI với Khâm Thiên Tứ Hóa, Kì Môn Độn Giáp",
+  "id": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
   "icons": [
     {
       "src": "/pwa-192x192.png",
@@ -21,8 +25,21 @@
       "purpose": "maskable"
     }
   ],
-  "theme_color": "#8f4626",
-  "background_color": "#8f4626",
-  "start_url": "/",
-  "orientation": "portrait"
+  "theme_color": "#ffffff",
+  "screenshots": [
+    {
+      "src": "/tinh-menh-do-desktop.jpg",
+      "sizes": "1920x912",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Giao diện máy tính"
+    },
+    {
+      "src": "/tinh-menh-do-mobile.jpg",
+      "sizes": "430x932",
+      "type": "image/png",
+      "label": "Giao diện điện thoại"
+    }
+  ],
+  "categories": ["tool", "tử vi", "gieo quẻ", "khâm thiên tứ hóa", "kì môn", "thái ất", "kinh dịch", "lục hào"]
 }
