@@ -1,0 +1,1 @@
+import{_ as s}from"./index.CcYNTM05.js";import{s as o}from"./transform.B_w3fwLI.js";var d=s((s,e)=>{let t;return"sandbox"===e&&(t=o("#i"+s)),o("sandbox"===e?t.nodes()[0].contentDocument.body:"body").select(`[id="${s}"]`)},"getDiagramElement");export{d as g};

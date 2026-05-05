@@ -1,0 +1,1 @@
+import{U as a,C as n}from"./index.CcYNTM05.js";const t=(s,o)=>a.lang.round(n.parse(s)[o]);export{t as c};
