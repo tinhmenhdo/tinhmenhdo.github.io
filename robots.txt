@@ -7,6 +7,6 @@ Disallow: /*?*
 
 Allow: /llms.txt
 
-Sitemap: https://tinhmenhdo.com/sitemap-index.xml
+Sitemap: https://tinhmenhdo.github.io/sitemap-index.xml
 
 # llms-context: https://tinhmenhdo.com/llms.txt

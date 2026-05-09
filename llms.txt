@@ -1,60 +1,60 @@
-# LLMS.txt (v1, 2026-05-05)
-Site: https://tinhmenhdo.com
-Canonical sitemap: https://tinhmenhdo.com/sitemap-index.xml
+# LLMS.txt (v1, 2026-05-09)
+Site: https://tinhmenhdo.github.io
+Canonical sitemap: https://tinhmenhdo.github.io/sitemap-index.xml
 
 Primary pages
-- [Personal Destiny Insights](https://tinhmenhdo.com): Explore personal destiny and cosmic insights through astrology.
-- [Astrology and Divination](https://tinhmenhdo.com/sitemap-0.xml): Explore astrology, divination, and fortune-telling resources online.
-- [XML Sitemap Overview](https://tinhmenhdo.com/sitemap-index.xml): Comprehensive XML sitemap for Tinh Menh Do website.
-- [Astrology Tools & Resources](https://tinhmenhdo.com/about-us): Discover Tinh Mệnh Đồ's accurate astrology tools and resources.
-- [AI Astrology Insights](https://tinhmenhdo.com/blog): Detailed guides on astrology using AI for accurate readings.
-- [Gieo Quẻ Kinh Dịch](https://tinhmenhdo.com/gieo-que-kinh-dich): Gieo Quẻ Kinh Dịch
-- [Gieo Quẻ Hỏi Việc](https://tinhmenhdo.com/gieo-que-hoi-viec): Gieo Quẻ Hỏi Việc
-- [Gieo Quẻ Mỗi Sáng](https://tinhmenhdo.com/gieo-que-moi-sang-kinh-dich): Gieo Quẻ Mỗi Sáng
-- [Gieo Quẻ Tình Duyên](https://tinhmenhdo.com/gieo-que-tinh-duyen): Gieo Quẻ Tình Duyên
-- [Gieo Quẻ Đầu Năm](https://tinhmenhdo.com/gieo-que-dau-nam): Gieo Quẻ Đầu Năm
-- [Gieo Quẻ Sự Nghiệp](https://tinhmenhdo.com/gieo-que-cong-danh-su-nghiep): Gieo Quẻ Sự Nghiệp
-- [Gieo Quẻ Tài Lộc](https://tinhmenhdo.com/gieo-que-tai-loc-kinh-doanh): Gieo Quẻ Tài Lộc
-- [Gieo Quẻ Sức Khỏe](https://tinhmenhdo.com/gieo-que-suc-khoe-binh-an): Gieo Quẻ Sức Khỏe
-- [Tử Vi & Tứ Trụ Theo Nơi Sinh](https://tinhmenhdo.com/tu-vi-tu-tru/the-gioi-theo-vi-tri-sinh): Tử Vi & Tứ Trụ Theo Nơi Sinh
-- [Tứ Trụ truyền thống & Manh Phái](https://tinhmenhdo.com/tu-vi-tu-tru/bazi-full-tu-tru-bat-tu-chinh-xac): Tứ Trụ truyền thống & Manh Phái
-- [Tử Vi Việt Nam](https://tinhmenhdo.com/tu-vi/la-so-tu-vi-viet-nam): Tử Vi Việt Nam
-- [Khâm Thiên Tứ Hóa](https://tinhmenhdo.com/tu-vi/kham-thien-tu-hoa-nam-phai): Khâm Thiên Tứ Hóa
-- [Tử Vi Nam Phái](https://tinhmenhdo.com/tu-vi/tu-vi-nam-phai): Tử Vi Nam Phái
-- [Phi Tinh Lương Phái](https://tinhmenhdo.com/tu-vi/tu-vi-phi-tinh-luong-phai): Phi Tinh Lương Phái
-- [Trung Châu Phái](https://tinhmenhdo.com/tu-vi/tu-vi-trung-chau-phai-kham-thien): Trung Châu Phái
-- [Lịch Vạn Niên](https://tinhmenhdo.com/xem-ngay-gio-tot-xau): Lịch Vạn Niên - Xem Ngày Tốt
-- [Xem Tuổi Xông Đất 2026](https://tinhmenhdo.com/xem-tuoi-xong-dat-nam-2026-binh-ngo): Tuổi Xông Đất 2026
-- [Giờ Mặt Trời Chính Ngọ](https://tinhmenhdo.com/gio-mat-tro-chinh-ngo): Giờ Mặt Trời Chính Ngọ
-- [Học Tử Vi](https://tinhmenhdo.com/hoc-tu-vi): Học Tử Vi
-- [Điểm Sóc Chính Xác](https://tinhmenhdo.com/ngay-gio-soc-chinh-xac): Điểm Sóc Chính Xác
-- [Tiết Khí Chính Xác Việt Nam](https://tinhmenhdo.com/tiet-khi-vietnam-2026): Tiết Khí Chính Xác Việt Nam
-- [Lịch Tiết Khí Toàn Cầu GPS](https://tinhmenhdo.com/tra-cuu-tiet-khi-trong-nam-toan-cau): Tiết Khí Chính Xác Toàn Cầu
-- [Bát Tự Hà Lạc Cổ Truyền](https://tinhmenhdo.com/bat-tu-ha-lac-co-truyen): Bát Tự Hà Lạc Cổ Truyền
-- [Bảng giảng bài](https://tinhmenhdo.com/note): Bảng Giảng Bài
+- [Personal Destiny Insights](https://tinhmenhdo.github.io): Explore personal destiny and cosmic insights through astrology.
+- [Astrology and Divination](https://tinhmenhdo.github.io/sitemap-0.xml): Explore astrology, divination, and fortune-telling resources online.
+- [XML Sitemap Overview](https://tinhmenhdo.github.io/sitemap-index.xml): Comprehensive XML sitemap for Tinh Menh Do website.
+- [Astrology Tools & Resources](https://tinhmenhdo.github.io/about-us): Discover Tinh Mệnh Đồ's accurate astrology tools and resources.
+- [AI Astrology Insights](https://tinhmenhdo.github.io/blog): Detailed guides on astrology using AI for accurate readings.
+- [Gieo Quẻ Kinh Dịch](https://tinhmenhdo.github.io/gieo-que-kinh-dich): Gieo Quẻ Kinh Dịch
+- [Gieo Quẻ Hỏi Việc](https://tinhmenhdo.github.io/gieo-que-hoi-viec): Gieo Quẻ Hỏi Việc
+- [Gieo Quẻ Mỗi Sáng](https://tinhmenhdo.github.io/gieo-que-moi-sang-kinh-dich): Gieo Quẻ Mỗi Sáng
+- [Gieo Quẻ Tình Duyên](https://tinhmenhdo.github.io/gieo-que-tinh-duyen): Gieo Quẻ Tình Duyên
+- [Gieo Quẻ Đầu Năm](https://tinhmenhdo.github.io/gieo-que-dau-nam): Gieo Quẻ Đầu Năm
+- [Gieo Quẻ Sự Nghiệp](https://tinhmenhdo.github.io/gieo-que-cong-danh-su-nghiep): Gieo Quẻ Sự Nghiệp
+- [Gieo Quẻ Tài Lộc](https://tinhmenhdo.github.io/gieo-que-tai-loc-kinh-doanh): Gieo Quẻ Tài Lộc
+- [Gieo Quẻ Sức Khỏe](https://tinhmenhdo.github.io/gieo-que-suc-khoe-binh-an): Gieo Quẻ Sức Khỏe
+- [Tử Vi & Tứ Trụ Theo Nơi Sinh](https://tinhmenhdo.github.io/tu-vi-tu-tru/the-gioi-theo-vi-tri-sinh): Tử Vi & Tứ Trụ Theo Nơi Sinh
+- [Tứ Trụ truyền thống & Manh Phái](https://tinhmenhdo.github.io/tu-vi-tu-tru/bazi-full-tu-tru-bat-tu-chinh-xac): Tứ Trụ truyền thống & Manh Phái
+- [Tử Vi Việt Nam](https://tinhmenhdo.github.io/tu-vi/la-so-tu-vi-viet-nam): Tử Vi Việt Nam
+- [Khâm Thiên Tứ Hóa](https://tinhmenhdo.github.io/tu-vi/kham-thien-tu-hoa-nam-phai): Khâm Thiên Tứ Hóa
+- [Tử Vi Nam Phái](https://tinhmenhdo.github.io/tu-vi/tu-vi-nam-phai): Tử Vi Nam Phái
+- [Phi Tinh Lương Phái](https://tinhmenhdo.github.io/tu-vi/tu-vi-phi-tinh-luong-phai): Phi Tinh Lương Phái
+- [Trung Châu Phái](https://tinhmenhdo.github.io/tu-vi/tu-vi-trung-chau-phai-kham-thien): Trung Châu Phái
+- [Lịch Vạn Niên](https://tinhmenhdo.github.io/xem-ngay-gio-tot-xau): Lịch Vạn Niên - Xem Ngày Tốt
+- [Xem Tuổi Xông Đất 2026](https://tinhmenhdo.github.io/xem-tuoi-xong-dat-nam-2026-binh-ngo): Tuổi Xông Đất 2026
+- [Giờ Mặt Trời Chính Ngọ](https://tinhmenhdo.github.io/gio-mat-tro-chinh-ngo): Giờ Mặt Trời Chính Ngọ
+- [Học Tử Vi](https://tinhmenhdo.github.io/hoc-tu-vi): Học Tử Vi
+- [Điểm Sóc Chính Xác](https://tinhmenhdo.github.io/ngay-gio-soc-chinh-xac): Điểm Sóc Chính Xác
+- [Tiết Khí Chính Xác Việt Nam](https://tinhmenhdo.github.io/tiet-khi-vietnam-2026): Tiết Khí Chính Xác Việt Nam
+- [Lịch Tiết Khí Toàn Cầu GPS](https://tinhmenhdo.github.io/tra-cuu-tiet-khi-trong-nam-toan-cau): Tiết Khí Chính Xác Toàn Cầu
+- [Bát Tự Hà Lạc Cổ Truyền](https://tinhmenhdo.github.io/bat-tu-ha-lac-co-truyen): Bát Tự Hà Lạc Cổ Truyền
+- [Bảng giảng bài](https://tinhmenhdo.github.io/note): Bảng Giảng Bài
 
 Latest Blog Posts
-- [Cách xem Tử Vi bằng AI chính xác: Tránh bẫy "Ảo Tưởng" của Chatbot](https://tinhmenhdo.com/cach-xem-la-so-tu-vi-bang-ai-chinh-xac): Hướng dẫn chi tiết cách xem Tử Vi bằng AI chính xác.
-- [Trạch Nhật khoa học: cách chọn ngày giờ tốt kết hợp Phương Đông & Phương Tây](https://tinhmenhdo.com/huong-dan-xem-ngay-tot-xau-chuan-xac): Thay vì xem ngày tốt xấu theo cảm tính, Tinh Mệnh Đồ ứng dụng thuật toán dựa trên Hiệp Kỷ Biện Phương Thư và lịch Tiết Khí thực để tìm ra thời điểm khởi sự phù hợp nhất cho từng cá nhân.
-- [Tinh Mệnh Đồ: 'Vùng xanh' học thuật giữa cơn bão AI tử vi thu phí vô tội vạ](https://tinhmenhdo.com/tinh-menh-do-vs-con-bao-thu-phi-ai): Trong khi thị trường AI tâm linh đang biến tướng thành các bẫy tài chính, Tinh Mệnh Đồ chọn lối đi riêng: Trả lại sự chính xác cho Thiên văn học, lấy học thuật làm gốc để giúp con người tự hiểu chính mình thay vì thu phí dựa trên nỗi sợ hãi.
-- [Mẹo nhớ Ngũ hành & Lục thập hoa giáp nhanh nhất](https://tinhmenhdo.com/meo-nho-ngu-hanh-luc-thap-hoa-giap-nhanh-nhat): Quy tắc bàn tay trái của tử vi và mẹo nhớ ngũ hành & lục thập hoa giáp
-- [Gieo quẻ hỏi việc chuẩn xác – Hướng dẫn chi tiết từ A – Z?](https://tinhmenhdo.com/cach-gieo-que-hoi-viec-chuan-xac): Hướng dẫn chi tiết cách gieo quẻ hỏi việc chuẩn xác trên Tinh Mệnh Đồ.
-- [Thông tin cập nhật các phiên bản Tinh Mệnh Đồ](https://tinhmenhdo.com/phien-ban-cap-nhat): Thông tin chi tiết về các phiên bản cập nhật của ứng dụng Tinh Mệnh Đồ, bao gồm các tính năng mới và cải tiến.
-- [Gieo quẻ hỏi việc – kết hợp khoa học và tâm linh để tìm định hướng. Khám phá ngay tính năng độc đáo trên Tinh Mệnh Đồ.](https://tinhmenhdo.com/gieo-que-hoi-viec-khi-tam-linh-giao-thoa-khoa-hoc): Gieo quẻ hỏi việc – một khái niệm vừa cổ xưa vừa mới mẻ – đang trở lại mạnh mẽ trong thời đại công nghệ và trí tuệ nhân tạo. Trong quá khứ, người xưa dùng quẻ để tìm hướng đi đúng, tránh sai lầm. Ngày nay, cùng với sự phát triển của công nghệ, phương pháp này đang được số hóa và tối ưu hóa bởi những công cụ như ứng dụng Tinh Mệnh Đồ.
-- [Tử Vi tại Tý: Lãnh Đạo Bẩm Sinh, Quyền Lực & Giàu Có?](https://tinhmenhdo.com/tu-vi-tai-ty-lanh-dao-quyen-luc-giau-co): Tử Vi tọa Tý – trí tuệ sắc bén, lãnh đạo bẩm sinh, dễ giàu có nếu hội cát tinh. Nhưng liệu có rủi ro tiềm ẩn? Xem ngay để khám phá vận mệnh!
-- [👉 Sao Tử Vi tại 12 cung: Giải mã chi tiết từng vị trí - Đâu là cách cục mạnh nhất?](https://tinhmenhdo.com/sao-tu-vi): 🔮 Sao Tử Vi khi an tại 12 cung sẽ ảnh hưởng ra sao đến vận mệnh, tài lộc, quyền lực? Tử Vi tại Thìn, Tuất có thực sự mạnh? Tử Vi tại Tị, Hợi có gì đặc biệt? ✅ Cùng khám phá ngay bảng phân tích chi tiết, chính xác nhất giúp bạn hiểu rõ con đường công danh, tài lộc qua từng vị trí! 🚀
-- [Làm thế nào để an 14 chính tinh đơn giản và chính xác nhất](https://tinhmenhdo.com/lam-the-nao-de-an-14-chinh-tinh-don-gian-va-chinh-xac-nhat): Hướng dẫn tự học an sao 14 chính tinh đơn giản, chính xác qua các hệ thống tự học. Rèn luyện kỹ năng an sao và đọc hiểu lá số tại Tinh Mệnh Đồ.
-- [Hệ thống thần số học và bản đồ chiêm tinh năm 2024 đầy đủ tinh gọn nhất](https://tinhmenhdo.com/than-so-hoc): Thần Số Học là hệ thống luận đoán số mệnh dựa trên các con số được phát triển bởi nền huyền thuật phương Tây. Tìm hiểu chi tiết về ưu nhược điểm của phương pháp này.
-- [Bắt đầu Hành Trình Khám Phá Huyền Học Giới Thiệu Tổng Quan Về Tử Vi và Phong Thủy](https://tinhmenhdo.com/bat-dau-hanh-trinh-kham-pha-huyen-hoc-tu-vi-phong-thuy): Khám phá thế giới huyền học với Tử Vi và Phong Thủy – một cuộc hành trình tìm hiểu bản mệnh và môi trường xung quanh. Cùng đọc hướng dẫn của chúng tôi ngay.
-- [Công Cụ và Tài Nguyên Hữu Ích để Nghiên Cứu Kinh Dịch](https://tinhmenhdo.com/kinh-dich-cong-cu-tai-nguyen-hoc-va-ung-dung): Khám phá các công cụ và tài nguyên quan trọng giúp bạn tiếp cận và ứng dụng Kinh Dịch. Hướng dẫn của chúng tôi sẽ giúp bạn khai thác tri thức cổ truyền này.
-- [Hướng Dẫn Tìm Hiểu và Ứng Dụng Kinh Dịch Trong Cuộc Sống](https://tinhmenhdo.com/huong-dan-ung-dung-kinh-dich-trong-cuoc-song): Kinh Dịch là hệ thống tri thức cổ xưa giúp con người hiểu rõ hơn về vũ trụ và bản thân. Hãy cùng khám phá các bước cơ bản để ứng dụng Kinh Dịch vào cuộc sống.
-- [Giới Thiệu Chi Tiết Về Tử Vi](https://tinhmenhdo.com/gioi-thieu-ve-tu-vi): Tử Vi là một môn huyền học phức tạp, sử dụng bản mệnh của con người để dự đoán các khía cạnh quan trọng trong cuộc sống. Trang này cung cấp tài liệu về các yếu tố cốt lõi trong Tử Vi.
-- [Giới Thiệu Tinh Mệnh Đồ – Công cụ lấy số mệnh chính xác cao.](https://tinhmenhdo.com/about-us): Tinh Mệnh Đồ là công cụ tử vi hiện đại tại Việt Nam, hỗ trợ lấy lá số tử vi cá nhân chính xác và phân tích sâu dựa trên kiến thức huyền học truyền thống kết hợp phương pháp hiện đại.
+- [Cách xem Tử Vi bằng AI chính xác: Tránh bẫy "Ảo Tưởng" của Chatbot](https://tinhmenhdo.github.io/cach-xem-la-so-tu-vi-bang-ai-chinh-xac): Hướng dẫn chi tiết cách xem Tử Vi bằng AI chính xác.
+- [Trạch Nhật khoa học: cách chọn ngày giờ tốt kết hợp Phương Đông & Phương Tây](https://tinhmenhdo.github.io/huong-dan-xem-ngay-tot-xau-chuan-xac): Thay vì xem ngày tốt xấu theo cảm tính, Tinh Mệnh Đồ ứng dụng thuật toán dựa trên Hiệp Kỷ Biện Phương Thư và lịch Tiết Khí thực để tìm ra thời điểm khởi sự phù hợp nhất cho từng cá nhân.
+- [Tinh Mệnh Đồ: 'Vùng xanh' học thuật giữa cơn bão AI tử vi thu phí vô tội vạ](https://tinhmenhdo.github.io/tinh-menh-do-vs-con-bao-thu-phi-ai): Trong khi thị trường AI tâm linh đang biến tướng thành các bẫy tài chính, Tinh Mệnh Đồ chọn lối đi riêng: Trả lại sự chính xác cho Thiên văn học, lấy học thuật làm gốc để giúp con người tự hiểu chính mình thay vì thu phí dựa trên nỗi sợ hãi.
+- [Mẹo nhớ Ngũ hành & Lục thập hoa giáp nhanh nhất](https://tinhmenhdo.github.io/meo-nho-ngu-hanh-luc-thap-hoa-giap-nhanh-nhat): Quy tắc bàn tay trái của tử vi và mẹo nhớ ngũ hành & lục thập hoa giáp
+- [Gieo quẻ hỏi việc chuẩn xác – Hướng dẫn chi tiết từ A – Z?](https://tinhmenhdo.github.io/cach-gieo-que-hoi-viec-chuan-xac): Hướng dẫn chi tiết cách gieo quẻ hỏi việc chuẩn xác trên Tinh Mệnh Đồ.
+- [Thông tin cập nhật các phiên bản Tinh Mệnh Đồ](https://tinhmenhdo.github.io/phien-ban-cap-nhat): Thông tin chi tiết về các phiên bản cập nhật của ứng dụng Tinh Mệnh Đồ, bao gồm các tính năng mới và cải tiến.
+- [Gieo quẻ hỏi việc – kết hợp khoa học và tâm linh để tìm định hướng. Khám phá ngay tính năng độc đáo trên Tinh Mệnh Đồ.](https://tinhmenhdo.github.io/gieo-que-hoi-viec-khi-tam-linh-giao-thoa-khoa-hoc): Gieo quẻ hỏi việc – một khái niệm vừa cổ xưa vừa mới mẻ – đang trở lại mạnh mẽ trong thời đại công nghệ và trí tuệ nhân tạo. Trong quá khứ, người xưa dùng quẻ để tìm hướng đi đúng, tránh sai lầm. Ngày nay, cùng với sự phát triển của công nghệ, phương pháp này đang được số hóa và tối ưu hóa bởi những công cụ như ứng dụng Tinh Mệnh Đồ.
+- [Tử Vi tại Tý: Lãnh Đạo Bẩm Sinh, Quyền Lực & Giàu Có?](https://tinhmenhdo.github.io/tu-vi-tai-ty-lanh-dao-quyen-luc-giau-co): Tử Vi tọa Tý – trí tuệ sắc bén, lãnh đạo bẩm sinh, dễ giàu có nếu hội cát tinh. Nhưng liệu có rủi ro tiềm ẩn? Xem ngay để khám phá vận mệnh!
+- [👉 Sao Tử Vi tại 12 cung: Giải mã chi tiết từng vị trí - Đâu là cách cục mạnh nhất?](https://tinhmenhdo.github.io/sao-tu-vi): 🔮 Sao Tử Vi khi an tại 12 cung sẽ ảnh hưởng ra sao đến vận mệnh, tài lộc, quyền lực? Tử Vi tại Thìn, Tuất có thực sự mạnh? Tử Vi tại Tị, Hợi có gì đặc biệt? ✅ Cùng khám phá ngay bảng phân tích chi tiết, chính xác nhất giúp bạn hiểu rõ con đường công danh, tài lộc qua từng vị trí! 🚀
+- [Làm thế nào để an 14 chính tinh đơn giản và chính xác nhất](https://tinhmenhdo.github.io/lam-the-nao-de-an-14-chinh-tinh-don-gian-va-chinh-xac-nhat): Hướng dẫn tự học an sao 14 chính tinh đơn giản, chính xác qua các hệ thống tự học. Rèn luyện kỹ năng an sao và đọc hiểu lá số tại Tinh Mệnh Đồ.
+- [Hệ thống thần số học và bản đồ chiêm tinh năm 2024 đầy đủ tinh gọn nhất](https://tinhmenhdo.github.io/than-so-hoc): Thần Số Học là hệ thống luận đoán số mệnh dựa trên các con số được phát triển bởi nền huyền thuật phương Tây. Tìm hiểu chi tiết về ưu nhược điểm của phương pháp này.
+- [Bắt đầu Hành Trình Khám Phá Huyền Học Giới Thiệu Tổng Quan Về Tử Vi và Phong Thủy](https://tinhmenhdo.github.io/bat-dau-hanh-trinh-kham-pha-huyen-hoc-tu-vi-phong-thuy): Khám phá thế giới huyền học với Tử Vi và Phong Thủy – một cuộc hành trình tìm hiểu bản mệnh và môi trường xung quanh. Cùng đọc hướng dẫn của chúng tôi ngay.
+- [Công Cụ và Tài Nguyên Hữu Ích để Nghiên Cứu Kinh Dịch](https://tinhmenhdo.github.io/kinh-dich-cong-cu-tai-nguyen-hoc-va-ung-dung): Khám phá các công cụ và tài nguyên quan trọng giúp bạn tiếp cận và ứng dụng Kinh Dịch. Hướng dẫn của chúng tôi sẽ giúp bạn khai thác tri thức cổ truyền này.
+- [Hướng Dẫn Tìm Hiểu và Ứng Dụng Kinh Dịch Trong Cuộc Sống](https://tinhmenhdo.github.io/huong-dan-ung-dung-kinh-dich-trong-cuoc-song): Kinh Dịch là hệ thống tri thức cổ xưa giúp con người hiểu rõ hơn về vũ trụ và bản thân. Hãy cùng khám phá các bước cơ bản để ứng dụng Kinh Dịch vào cuộc sống.
+- [Giới Thiệu Chi Tiết Về Tử Vi](https://tinhmenhdo.github.io/gioi-thieu-ve-tu-vi): Tử Vi là một môn huyền học phức tạp, sử dụng bản mệnh của con người để dự đoán các khía cạnh quan trọng trong cuộc sống. Trang này cung cấp tài liệu về các yếu tố cốt lõi trong Tử Vi.
+- [Giới Thiệu Tinh Mệnh Đồ – Công cụ lấy số mệnh chính xác cao.](https://tinhmenhdo.github.io/about-us): Tinh Mệnh Đồ là công cụ tử vi hiện đại tại Việt Nam, hỗ trợ lấy lá số tử vi cá nhân chính xác và phân tích sâu dựa trên kiến thức huyền học truyền thống kết hợp phương pháp hiện đại.
 
 Citation & usage
 - Please attribute the source domain.
 - Short quotes allowed for summary/context. Do not reproduce full articles.
 
 Technical
-- AI policy: https://tinhmenhdo.com/ai-crawler.txt
-- Robots: https://tinhmenhdo.com/robots.txt
+- AI policy: https://tinhmenhdo.github.io/ai-crawler.txt
+- Robots: https://tinhmenhdo.github.io/robots.txt
